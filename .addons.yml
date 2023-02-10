@@ -5,3 +5,7 @@ addons:
     repository: mkosmo/hassio-addon-postgresql
     target: postgresql
     image: ghcr.io/mkosmo/hassio-addon-postgresql/{arch}
+  hassio-addon-postgresql15:
+    repository: mkosmo/hassio-addon-postgresql15
+    target: postgresql15
+    image: ghcr.io/mkosmo/hassio-addon-postgresql15/{arch}
