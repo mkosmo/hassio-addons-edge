@@ -50,7 +50,7 @@ A SQL database server
 
 [:books: PostgreSQL add-on documentation][addon-doc-hassio-addon-postgresql]
 
-### &#10003; [PostgreSQL][addon-hassio-addon-postgresql15]
+### &#10003; [PostgreSQL 15][addon-hassio-addon-postgresql15]
 
 ![Latest Version][hassio-addon-postgresql15-version-shield]
 ![Supports armhf Architecture][hassio-addon-postgresql15-armhf-shield]
@@ -59,9 +59,9 @@ A SQL database server
 ![Supports amd64 Architecture][hassio-addon-postgresql15-amd64-shield]
 ![Supports i386 Architecture][hassio-addon-postgresql15-i386-shield]
 
-A SQL database server
+A PostgreSQL 15 database server
 
-[:books: PostgreSQL add-on documentation][addon-doc-hassio-addon-postgresql15]
+[:books: PostgreSQL 15 add-on documentation][addon-doc-hassio-addon-postgresql15]
 
 ## Releases
 
@@ -78,7 +78,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: PostgreSQL][hassio-addon-postgresql-issue]
-- [Open an issue for the add-on: PostgreSQL][hassio-addon-postgresql15-issue]
+- [Open an issue for the add-on: PostgreSQL 15][hassio-addon-postgresql15-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
