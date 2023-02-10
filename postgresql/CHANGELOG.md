@@ -1,1 +1,0 @@
-- Consolidate Dockerfile run statements (#5)
