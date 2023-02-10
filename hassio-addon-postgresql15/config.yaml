@@ -6,12 +6,12 @@ arch:
 - i386
 backup: cold
 codenotary: mkosmo@gmail.com
-description: A SQL database server
+description: A PostgreSQL 15 database server
 image: ghcr.io/mkosmo/hassio-addon-postgresql15/{arch}
 init: false
 map:
 - share:rw
-name: PostgreSQL
+name: PostgreSQL 15
 options:
   databases:
   - homeassistant
@@ -45,5 +45,5 @@ startup: system
 timeout: 60
 tmpfs: true
 url: https://github.com/mkosmo/hassio-addons-postgresql/tree/master/postgresql
-version: ce1cb00
+version: 1f24358
 watchdog: tcp://[HOST]:[PORT:5432]

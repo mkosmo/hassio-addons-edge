@@ -133,10 +133,10 @@ SOFTWARE.
 [hassio-addon-postgresql-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [hassio-addon-postgresql-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [hassio-addon-postgresql-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-hassio-addon-postgresql15]: https://github.com/mkosmo/hassio-addon-postgresql15/tree/ce1cb00
-[addon-doc-hassio-addon-postgresql15]: https://github.com/mkosmo/hassio-addon-postgresql15/blob/ce1cb00/README.md
+[addon-hassio-addon-postgresql15]: https://github.com/mkosmo/hassio-addon-postgresql15/tree/1f24358
+[addon-doc-hassio-addon-postgresql15]: https://github.com/mkosmo/hassio-addon-postgresql15/blob/1f24358/README.md
 [hassio-addon-postgresql15-issue]: https://github.com/mkosmo/hassio-addon-postgresql15/issues
-[hassio-addon-postgresql15-version-shield]: https://img.shields.io/badge/version-ce1cb00-blue.svg
+[hassio-addon-postgresql15-version-shield]: https://img.shields.io/badge/version-1f24358-blue.svg
 [hassio-addon-postgresql15-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [hassio-addon-postgresql15-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [hassio-addon-postgresql15-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
