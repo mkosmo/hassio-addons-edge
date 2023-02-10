@@ -50,6 +50,19 @@ A SQL database server
 
 [:books: PostgreSQL add-on documentation][addon-doc-hassio-addon-postgresql]
 
+### &#10003; [PostgreSQL][addon-hassio-addon-postgresql15]
+
+![Latest Version][hassio-addon-postgresql15-version-shield]
+![Supports armhf Architecture][hassio-addon-postgresql15-armhf-shield]
+![Supports armv7 Architecture][hassio-addon-postgresql15-armv7-shield]
+![Supports aarch64 Architecture][hassio-addon-postgresql15-aarch64-shield]
+![Supports amd64 Architecture][hassio-addon-postgresql15-amd64-shield]
+![Supports i386 Architecture][hassio-addon-postgresql15-i386-shield]
+
+A SQL database server
+
+[:books: PostgreSQL add-on documentation][addon-doc-hassio-addon-postgresql15]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -65,6 +78,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: PostgreSQL][hassio-addon-postgresql-issue]
+- [Open an issue for the add-on: PostgreSQL][hassio-addon-postgresql15-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -119,6 +133,15 @@ SOFTWARE.
 [hassio-addon-postgresql-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [hassio-addon-postgresql-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [hassio-addon-postgresql-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-hassio-addon-postgresql15]: https://github.com/mkosmo/hassio-addon-postgresql15/tree/ce1cb00
+[addon-doc-hassio-addon-postgresql15]: https://github.com/mkosmo/hassio-addon-postgresql15/blob/ce1cb00/README.md
+[hassio-addon-postgresql15-issue]: https://github.com/mkosmo/hassio-addon-postgresql15/issues
+[hassio-addon-postgresql15-version-shield]: https://img.shields.io/badge/version-ce1cb00-blue.svg
+[hassio-addon-postgresql15-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[hassio-addon-postgresql15-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[hassio-addon-postgresql15-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[hassio-addon-postgresql15-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[hassio-addon-postgresql15-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 
 [mkosmo]: https://github.com/mkosmo
 [issue]: https://github.com/mkosmo/hassio-addons-edge/issues
