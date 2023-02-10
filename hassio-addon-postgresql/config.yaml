@@ -45,5 +45,5 @@ startup: system
 timeout: 60
 tmpfs: true
 url: https://github.com/mkosmo/hassio-addons-postgresql/tree/master/postgresql
-version: 3cb2adb
+version: 20b9703
 watchdog: tcp://[HOST]:[PORT:5432]
