@@ -60,14 +60,7 @@ add-on, represents the version number.
 
 Got questions?
 
-You have several options to get them answered:
-
-- The Home Assistant Community Add-ons [Discord Chat Server][discord]
-- The Home Assistant [Community Forum][forum].
-- The Home Assistant [Discord Chat Server][discord-ha].
-- Join the [Reddit subreddit][reddit] in [/r/homeassistant][reddit]
-
-You could also open an issue here on GitHub. Note, we use a separate
+You can open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
