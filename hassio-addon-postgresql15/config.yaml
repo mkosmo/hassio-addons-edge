@@ -44,6 +44,8 @@ slug: postgresql15
 startup: system
 timeout: 60
 tmpfs: true
-url: https://github.com/mkosmo/hassio-addons-postgresql/tree/master/postgresql
-version: 1f24358
+url: 'https://github.com/mkosmo/hassio-addon-postgresql15/tree/master/postgresql15
+
+  '
+version: a0ad099
 watchdog: tcp://[HOST]:[PORT:5432]

@@ -1,3 +1,1 @@
-- Update config name (#1)
-
-* Update config name and description
+- Update url in config.yaml
