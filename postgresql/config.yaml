@@ -1,5 +1,5 @@
 ---
-version: dev
+version: ecaf7ee
 slug: postgresql
 name: PostgreSQL
 description: A SQL database server
