@@ -1,10 +1,6 @@
 ---
 channel: edge
 addons:
-  hassio-addon-postgresql:
-    repository: mkosmo/hassio-addon-postgresql
-    target: postgresql
-    image: ghcr.io/mkosmo/hassio-addon-postgresql/{arch}
   hassio-addon-postgresql15:
     repository: mkosmo/hassio-addon-postgresql15
     target: postgresql15
