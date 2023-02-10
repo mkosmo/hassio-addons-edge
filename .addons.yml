@@ -1,0 +1,7 @@
+---
+channel: edge
+addons:
+  postgresql:
+    repository: mkosmo/hassio-addon-postgresql
+    target: postgresql
+    image: ghcr.io/mkosmo/hassio-addon-postgresql/{arch}
