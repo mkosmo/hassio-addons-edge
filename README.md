@@ -110,10 +110,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-hassio-addon-postgresql15]: https://github.com/mkosmo/hassio-addon-postgresql15/tree/2f44530
-[addon-doc-hassio-addon-postgresql15]: https://github.com/mkosmo/hassio-addon-postgresql15/blob/2f44530/README.md
+[addon-hassio-addon-postgresql15]: https://github.com/mkosmo/hassio-addon-postgresql15/tree/2312e3a
+[addon-doc-hassio-addon-postgresql15]: https://github.com/mkosmo/hassio-addon-postgresql15/blob/2312e3a/README.md
 [hassio-addon-postgresql15-issue]: https://github.com/mkosmo/hassio-addon-postgresql15/issues
-[hassio-addon-postgresql15-version-shield]: https://img.shields.io/badge/version-2f44530-blue.svg
+[hassio-addon-postgresql15-version-shield]: https://img.shields.io/badge/version-2312e3a-blue.svg
 [hassio-addon-postgresql15-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [hassio-addon-postgresql15-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [hassio-addon-postgresql15-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

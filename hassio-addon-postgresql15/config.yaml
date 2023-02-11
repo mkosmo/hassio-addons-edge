@@ -47,5 +47,5 @@ tmpfs: true
 url: 'https://github.com/mkosmo/hassio-addon-postgresql15/tree/master/postgresql15
 
   '
-version: 2f44530
+version: 2312e3a
 watchdog: tcp://[HOST]:[PORT:5432]
