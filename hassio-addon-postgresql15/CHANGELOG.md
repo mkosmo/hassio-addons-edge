@@ -2,4 +2,4 @@
 
 ## 📚 Documentation
 
-- Update add-on badge with repo identifier @mkosmo (#5)
+- Bump project stage to development @mkosmo (#6)
