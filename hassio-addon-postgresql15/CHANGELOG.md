@@ -1,5 +1,2 @@
-## What’s changed
-
-## 📚 Documentation
-
-- Bump project stage to development @mkosmo (#6)
+# Changelog since v0.1.2
+- Fix README.md (#7) 
