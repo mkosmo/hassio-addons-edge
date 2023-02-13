@@ -1,8 +1,7 @@
-# Changelog since v0.1.2
-- Minor optimizations (#8)
+# Changelog since v0.1.3
+- Update devcontainer (#9)
 
-* Fix shellcheck shell identification in Dockerfile
-* Ignore hadolint DL3059 on second RUN
-* Encapsulate database name in schema assignment
-* Add update mode info message 
-- Fix README.md (#7) 
+* Create supervisor.sh
+* Update devcontainer.json
+* Move settings/extensions to customizations
+* Add commonly used extensions to devcontainer 
