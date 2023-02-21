@@ -1,6 +1,2 @@
-## What’s changed
-
-## 🚀 Enhancements
-
-- Update devcontainer @mkosmo (#9)
-- Add image labels to Dockerfile @mkosmo (#10)
+# Changelog since v0.1.4
+- Update addon-base to v13.1.2 (#11) 
