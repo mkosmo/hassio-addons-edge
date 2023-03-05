@@ -1,2 +1,5 @@
-# Changelog since v0.1.4
-- Update addon-base to v13.1.2 (#11) 
+## What’s changed
+
+## ⬆️ Dependency updates
+
+- Update hassio-addons/base to 13.1.3 @mkosmo (#12)
